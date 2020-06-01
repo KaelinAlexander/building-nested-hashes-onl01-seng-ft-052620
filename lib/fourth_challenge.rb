@@ -25,7 +25,7 @@ def fourth_challenge
         :friend2 => {
           name: "Nurse", age:"44", attitude:"worried"
         }
-        } 
+        ] 
         }
       ]
    }
